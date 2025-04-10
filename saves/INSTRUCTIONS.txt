@@ -1,0 +1,14 @@
+7,10  x and y starting positions (from bottom-left corner)
+......O.  the code from life lexicon without tabs (https://conwaylife.com/ref/lexicon/lex_d.htm#diehard)
+OO......
+.O...OOO
+
+!!! WARNING !!!
+you shouldn't put numbers in the first comment and you shouldn't put O's in the second! (everything in the code above works)
+here's an example:
+7,10  x's and y's starting positions are 7 and 10    <- this shouldn't not work
+......O.  here's a piece of COOL code i've made      <- this will (most likely) not work, this will work only if the O's are too far and out of the grid bounds
+OO......
+.O...OOO
+
+also, you have to put the numbers first or it will crash

@@ -1,0 +1,10 @@
+5,13        pattern from life lexicon: https://conwaylife.com/ref/lexicon/lex_l.htm#loafer
+.OO..O.OO
+O..O..OO.
+.O.O.....
+..O......
+........O
+......OOO
+.....O...
+......O..
+.......OO

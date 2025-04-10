@@ -1,0 +1,4 @@
+7,10      pattern from life lexicon: https://conwaylife.com/ref/lexicon/lex_d.htm#diehard
+......O.
+OO......
+.O...OOO

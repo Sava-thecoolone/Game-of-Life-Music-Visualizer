@@ -1,0 +1,4 @@
+6,11         pattern from life lexicon: https://conwaylife.com/ref/lexicon/lex_p.htm#pentadecathlon
+..O....O..
+OO.OOOO.OO
+..O....O..

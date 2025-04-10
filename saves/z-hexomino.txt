@@ -1,0 +1,5 @@
+7,11      pattern from life lexicon: https://conwaylife.com/ref/lexicon/lex_z.htm#zhexomino
+OO.
+.O.
+.O.
+.OO
