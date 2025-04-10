@@ -6,7 +6,7 @@ OO......
 !!! WARNING !!!
 you shouldn't put numbers in the first comment and you shouldn't put O's in the second! (everything in the code above works)
 here's an example:
-7,10  x's and y's starting positions are 7 and 10    <- this shouldn't not work
+7,10  x's and y's starting positions are 7 and 10    <- this shouldn't work
 ......O.  here's a piece of COOL code i've made      <- this will (most likely) not work, this will work only if the O's are too far and out of the grid bounds
 OO......
 .O...OOO
